@@ -1,0 +1,1 @@
+var json_WaterTank_13 = {"type":"FeatureCollection","name":"WaterTank_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Water Tank","Code":"W8B1","Ward":"8","Road":"Edathedath Road"},"geometry":{"type":"Point","coordinates":[76.233617660154493,10.457899376070269]}}]}
